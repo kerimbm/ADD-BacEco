@@ -1,1 +1,4 @@
 jupyter_contrib_nbextensions
+pandas
+matplotlib
+numpy
