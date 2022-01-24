@@ -1,0 +1,5 @@
+jupyter contrib nbextension install --user
+jupyter nbextension enable hide_input/main
+jupyter nbextension enable freeze/main
+jupyter nbextension enable init_cell/main
+jupyter nbextension enable exercise2/main
